@@ -1,0 +1,218 @@
+.numbers{
+    background-color: #af2d49;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 0px;
+
+}
+.numbers h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #fff;
+}
+.numbers.row{
+    margin: 10px 0px;
+}
+.numbers h6{
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.pride{
+    background-color: transparent;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+   overflow: hidden;
+    margin-top: 50px ;
+}
+.pride img{
+   max-width: 100%;
+   border-radius: 1000px;
+   
+}
+.pride h2{
+    font-size: 35px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #af2d49;
+    width: 80%;
+    line-height: 50px;
+
+}
+.pride p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #333;
+    margin-top: 15px;
+}
+.pride button,
+.blogs button {
+    background-color: #af2d49;
+    border: 1px solid #af2d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.pride button a,
+.blogs button{
+    display: block;
+    color: #fff;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.pride button:hover a,
+.blogs button:hover a {
+    color: #af2d49;
+
+}
+.pride button:hover,
+.blogs button:hover {
+    background-color: #fff;
+}
+.ingredients{
+    background-color: transparent;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+   overflow: hidden;
+    margin-top: 50px ;
+}
+.ingredients img{
+   max-width: 100%;
+   border-radius: 1000px;
+   
+}
+.ingredients h2, 
+.paralex h2{
+    font-size: 35px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: #af2d49;
+    width: 80%;
+    line-height: 50px;
+    text-align: center;
+
+}
+.ingredients p,
+.paralex p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #333;
+    margin-top: 15px;
+    
+}
+.ingredients button,
+.paralex button{
+    background-color: #af2d49;
+    border: 1px solid #af2d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.ingredients button a,
+.paralex button a{
+    display: block;
+    color: #fff;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ingredients button:hover a,
+.paralex button:hover a{
+    color: #af2d49;
+
+}
+.ingredients button:hover,
+.paralex button:hover{
+    background-color: #fff;
+}
+.paralex{
+    background:url('../../assets/reda.jfif')center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    text-align: center;
+}
+.blogs{
+    margin-top: 50px;
+    padding: 25px 0px;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+}
+.blogs .row:first-child{
+    text-align: center;
+    margin: 25px 0px;
+    
+}
+.blogs h2{
+    font-size: 45px;
+    font-weight: bold;
+    width: 100%;
+    margin: 10px 0px;
+    color: #af2d49;
+    line-height: 50px;
+
+}
+.blogs p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #333;
+    margin-top: 15px;
+    
+}
+.blogs .box{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid floralwhite;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+.blogs  img{
+    max-width: 100%;
+}
+.blogs h5{
+    color: #af2d49;
+    font-size: 22px;
+    margin: 15px 0px;
+
+}
+.blogs .box span{
+    display: block;
+    color: #333;
+    font-size: 16px;
+    margin: 10px 0px;
+}
+.sliderx{
+    background-color: #af2d49;
+    border: 1px solid #af2d49;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 25px 0px;
+
+}
+.sliderx img{
+    border-radius: 50%;
+    width: 10%;
+    height: 100px;
+    margin-bottom: 150px;
+}
